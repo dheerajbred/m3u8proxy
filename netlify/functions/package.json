@@ -1,0 +1,8 @@
+{
+  "name": "m3u8proxy-functions",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+} 
